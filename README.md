@@ -1,0 +1,1 @@
+This is a simple Space Invaders clone I made following instructions in Python Crash Course by Eric Matthes.
